@@ -1,6 +1,5 @@
 import './App.css';
 import { useState, useEffect } from 'react';
-/*import ProductCard from './ProductCard';  // Import the ProductCard component*/ //test
 import SearchBar from './components/SearchBar';  // Import the SearchBar component
 import ImageGrid from './components/ImageGrid';  // Import the ImageGrid component
 import Lightbox from './components/Lightbox';  // Import the Lightbox component
