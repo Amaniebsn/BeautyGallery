@@ -1,6 +1,6 @@
 import './App.css';
 import { useState, useEffect } from 'react';
-import ProductCard from './ProductCard';  // Import the ProductCard component
+/*import ProductCard from './ProductCard';  // Import the ProductCard component*/ //test
 import SearchBar from './components/SearchBar';  // Import the SearchBar component
 import ImageGrid from './components/ImageGrid';  // Import the ImageGrid component
 import Lightbox from './components/Lightbox';  // Import the Lightbox component
@@ -47,7 +47,7 @@ function App() {
     } else if (searchTerm) {
       setImagesFromAPI([]);  // Clear images if the search term doesn't match any allowed keywords
     }
-  }, [searchTerm]);  // Run this effect whenever the search term changes
+  }, [searchTerm, allowedKeywords]);  // Run this effect whenever the search term changes
 
   // Example static product data (can be dynamic in the future)
   const products = [
