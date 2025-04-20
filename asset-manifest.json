@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amaniebsn/BeautyGallery.git/static/css/main.358db969.css",
+    "main.js": "/Amaniebsn/BeautyGallery.git/static/js/main.c2a7a15f.js",
+    "static/js/453.f0e1b46e.chunk.js": "/Amaniebsn/BeautyGallery.git/static/js/453.f0e1b46e.chunk.js",
+    "index.html": "/Amaniebsn/BeautyGallery.git/index.html",
+    "main.358db969.css.map": "/Amaniebsn/BeautyGallery.git/static/css/main.358db969.css.map",
+    "main.c2a7a15f.js.map": "/Amaniebsn/BeautyGallery.git/static/js/main.c2a7a15f.js.map",
+    "453.f0e1b46e.chunk.js.map": "/Amaniebsn/BeautyGallery.git/static/js/453.f0e1b46e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358db969.css",
+    "static/js/main.c2a7a15f.js"
+  ]
+}
