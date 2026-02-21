@@ -19,7 +19,7 @@ The goal was to practice component structure, state management, and user interfa
 - CSS3
 
 ## Live Demo
-https://your-vercel-link.vercel.app
+https://beauty-gallery.vercel.app
 
 ## What I Learned
 - Managing state with React Hooks (useState)
