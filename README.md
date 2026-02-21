@@ -27,6 +27,7 @@ https://your-vercel-link.vercel.app
 - Implementing UI themes (dark/light mode)
 - Creating interactive hover effects
 - Building a responsive layout
+- Exemple : 2 mode dark/light
 ![IMG_8399](https://github.com/user-attachments/assets/dad410eb-7036-4ab2-b5b2-2f13220cca7a)
 ![IMG_8400](https://github.com/user-attachments/assets/a0d31d9f-f3dd-426b-b5c3-fbc7acdce44e)
 
